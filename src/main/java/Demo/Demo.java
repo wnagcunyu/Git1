@@ -7,6 +7,7 @@ public class Demo {
         System.out.println("hello git!!!");
         System.out.println("hello git2222");
         System.out.println("hello gitwnagcunyu");
+        System.out.println("这是我自己加的代码");
     }
 
 }
